@@ -1,0 +1,51 @@
+<f5-banner-header-image-rotator>
+	<config
+		stage_width="700"
+		stage_height="300"
+		
+		seconds_to_next_frame = "0.05"
+		default_transition="randomize"
+		link_window_method="_blank"
+		load_message="loading images..."
+		
+		button_show="false"
+		button_width="105"
+		
+		subtitle_show="false"
+		
+		stripes_number_of="15"
+		stripes_color="FFFFFF"
+		stripes_alpha="0"
+		
+		transition_text_show="true"
+		transition_text_font_color="CCCCCC"
+		transition_text_font_size = "45"
+	/>
+	
+	<itens>
+		
+		<item
+		image_location="include/images/image1.png" 
+		text_button="Buteco do Jair!" 
+		text_transition="Buteco do Jair" 
+		text_subtitle="Conheça nosso estabelecimento, edite esse texto em data.xml!"
+		item_color="CCCCCC"
+		seconds_on_stage="8"
+		link="http://www.f5sites.com"
+		/>
+				
+		<item
+		image_location="include/images/image2.png" 
+		text_button="Cardápio Especial!" 
+		text_transition="Cardápio Especial!" 
+		text_subtitle="Conheça as delícias do nosso cardápio!"
+		item_color="009966"
+		seconds_on_stage="8"
+		link="http://www.f5sites.com"
+		/>
+				
+	</itens>
+</f5-banner-header-image-rotator>
+
+
+

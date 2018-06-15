@@ -1,0 +1,46 @@
+/*Criado por Francisco Matelli - F5 Sites | www.f5sites.com*/
+
+* {text-decoration:none;margin:0;border:0;}
+
+body {background:#D3BE87 url("imagens/fundo.jpg");}
+
+#banner_div {margin-left:220px;}
+
+p {line-height:40px;}
+
+a:active, a:visited, a:active {color:#090B0A;}
+
+#content {width:1162px; margin:auto;}
+
+#topo {height:75px; background:#F6C301;text-align:center;border-bottom:#938069 4px solid;}
+
+#topo-img {margin-left:80px;}
+
+#menu {height:50px; width:900px; position:relative; top:70px; padding:0 100px;}
+
+#ul-menu {display:inline; list-style:none;}
+
+#ul-menu li {font-size:20px; font-weight:bold; margin:0 10px;}
+/*#ul-menu li:hover { cursor:pointer;}*/
+#ul-menu li a {width:100%;height:100%;padding:20px;}
+#ul-menu li a:hover {background:#F8C301;}
+
+#logo-centro {background:url("logo-centro.png") no-repeat; width:330; height:180px;  z-index:10; position:absolute; top:20px; left:50%; margin-left:-165px;}
+
+#imagens-centro {margin:120px 180px 60px 180px; height:160px;}
+
+#footer {background:#F8C301; width:720px; margin:20px auto 20px auto; height:100px;padding:10px;}
+/*#footer img {margin:0 10px;}*/
+
+#menu-linha {border-bottom:8px #090B0A solid; border-top:20px #F8C301 solid; position:absolute;top:188px;left:50%; margin-left:-490px; width:980px;}
+
+.fleft {float:left;} .fright {float:right;} .mauto {margin:0 auto;} .txtc {text-align:center;} .txtl {text-align:left;} .cb {clear:both;} .padding10 {padding:10px;} .padding20 {padding:20px;}
+
+.cachacat {padding:30px; width:250px; text-align:left;}
+
+.quadro-meio {height:300px; width:860px; margin:20px auto;}
+
+.quadro-meio div {background:#ffffff; width:380px; height:254px; padding:10px;}
+
+div#programacao {width:700px;background:#F8F2D0; margin:0 auto 20px auto; height:300px; padding:20px;}
+div#cardapio  {width:700px;background:#F8F2D0; margin:0 auto 20px auto; height:1300px; padding:20px; text-align:center;}
